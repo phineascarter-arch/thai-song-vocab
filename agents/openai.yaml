@@ -1,0 +1,4 @@
+interface:
+  display_name: "聽泰語歌學泰文"
+  short_description: "泰語歌曲學習，附繁中翻譯、羅馬拼音、聲調、女聲與手機版學習手帳"
+  default_prompt: "使用 $thai-song-vocab，幫我把這首泰語歌整理成初學者 HTML 學習頁、繁中筆記與 Anki CSV，保留羅馬拼音、中文聲調與 Premwadee 女聲。"
