@@ -92,3 +92,11 @@ references/voice.md            固定女聲、MP3 產製與 iPhone 播放
 ```
 
 部署 GitHub Pages 或其他網站需另行要求；安裝 skill 不會自動發布學習內容。歌曲、歌詞及原唱錄音的權利屬原權利人，本專案不代表歌手或唱片公司的官方產品。
+
+
+## 線上學習
+
+- [คิดถึงจัง (มาหาหน่อย)：使用者提供歌詞版](https://phineascarter-arch.github.io/thai-song-vocab/)
+- [ใจให้ไป — BIG 3 featuring แอ๊ป ธิดาศิริ](https://phineascarter-arch.github.io/thai-song-vocab/jai-hai-pai/)
+
+兩首皆提供逐句翻譯、羅馬拼音、每句與每詞女聲、慢速重聽和聽音選詞。遊戲從逐詞拆解抽題，可按段落、目前句或搜尋篩選，作答後顯示拼音與中文並跳回原句。
