@@ -2,7 +2,15 @@
 
 給完全初學者的泰語歌曲學習 skill：從可核對的泰文歌詞整理繁體中文解釋、羅馬拼音、逐音節聲調、日常詞句與歌曲意象，產出手機可讀的 HTML 學習頁、Markdown 筆記及 Anki CSV。
 
-這是可安裝的 Codex skill；本儲存庫尚未包含特定歌曲的學習頁，也沒有部署網站。它獨立於 [thai-series-vocab 追劇版](https://github.com/phineascarter-arch/thai-series-vocab)，不會覆蓋追劇版或英語版。
+這是可安裝的 Codex skill，也包含《คิดถึงจัง (มาหาหน่อย)》的使用者提供歌詞學習頁。它獨立於 [thai-series-vocab 追劇版](https://github.com/phineascarter-arch/thai-series-vocab)，不會覆蓋追劇版或英語版。
+
+## 歌曲學習網站
+
+[開啟歌曲學習頁](https://phineascarter-arch.github.io/thai-song-vocab/)：99 行泰文、羅馬拼音、繁中翻譯，每句正常／慢速語音、詳細詞塊拆解與逐詞點按發音。語音固定 Premwadee 女聲，非原唱。原曲使用 Apple Music 外部連結，未提供原唱逐字同步。
+
+本頁依使用者提供的含饒舌版本整理，不保證與 Apple Music 原曲逐句相同。收藏與進度保存在瀏覽器，從本機檔案改到網站時需自行匯出／匯入。iPhone 可用 Safari 開啟，實機播放效果仍需確認。
+
+網站從 `main` 分支的 `/docs` 自動部署；後續推送該目錄即可更新。
 
 ## 安裝到 Codex
 
